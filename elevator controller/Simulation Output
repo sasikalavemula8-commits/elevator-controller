@@ -1,0 +1,14 @@
+Time=0   | Request=00 | Current Floor=00 | Door=1 | Up=0 | Down=0
+Time=10  | Request=11 | Current Floor=00 | Door=0 | Up=1 | Down=0
+Time=15  | Request=11 | Current Floor=01 | Door=0 | Up=1 | Down=0
+Time=25  | Request=11 | Current Floor=10 | Door=0 | Up=1 | Down=0
+Time=35  | Request=11 | Current Floor=11 | Door=1 | Up=0 | Down=0
+
+Time=50  | Request=00 | Current Floor=11 | Door=0 | Up=0 | Down=1
+Time=60  | Request=00 | Current Floor=10 | Door=0 | Up=0 | Down=1
+Time=70  | Request=00 | Current Floor=01 | Door=0 | Up=0 | Down=1
+Time=80  | Request=00 | Current Floor=00 | Door=1 | Up=0 | Down=0
+
+Time=90  | Request=10 | Current Floor=00 | Door=0 | Up=1 | Down=0
+Time=100  | Request=10 | Current Floor=01 | Door=0 | Up=1 | Down=0
+Time=110 | Request=10 | Current Floor=10 | Door=1 | Up=0 | Down=0
